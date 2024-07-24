@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_HfH6C5O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.40687630
+_cell_length_b   4.67646212
+_cell_length_c   8.97242276
+_cell_angle_alpha   104.38087697
+_cell_angle_beta   93.04767609
+_cell_angle_gamma   97.00210165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfH6C5O4
+_chemical_formula_sum   'Hf1 H6 C5 O4'
+_cell_volume   136.919243361
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf1  1  0.153399  0.216110  0.273718  1
+  O  O2  1  0.601978  0.020287  0.406572  1
+  O  O3  1  0.292346  0.616464  0.467768  1
+  O  O4  1  0.094348  0.859385  0.086923  1
+  O  O5  1  0.671302  0.367834  0.210782  1
+  C  C6  1  0.521751  0.863186  0.507851  1
+  C  C7  1  0.686702  0.980288  0.671865  1
+  C  C8  1  0.143469  0.739509  0.944131  1
+  C  C9  1  0.833991  0.313446  0.722870  1
+  C  C10  1  0.986756  0.411784  0.894297  1
+  H  H11  1  0.765552  0.349857  0.968150  1
+  H  H12  1  0.234687  0.292428  0.913291  1
+  H  H13  1  0.924994  0.853181  0.690411  1
+  H  H14  1  0.467948  0.915373  0.747647  1
+  H  H15  1  0.592565  0.435371  0.704102  1
+  H  H16  1  0.062952  0.373798  0.651913  1
+ 
+# Number_of_atoms:                    16
+# Number_of_atom_types:                4
+# Atom_types:                        Hf  O  C  H
+# Atom_numbers:                        1     4     5     6
+# Material_class:                    MC_pol
+# Geometry_class:                    GC_cry
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Hf-based_polymer                                                                
+# Structure_prediction_method_used:  minima-hopping                                                                  
+# Number_of_atoms:                    16
+# Number_of_atom_types:                4
+# Atom_types:                        Hf  O  C  H
+# Dielectric_constant_electronic:    4.44088E+00
+# Dielectric_constant_ionic:         5.41730E+00
+# Dielectric_constant_total:         9.85819E+00
+# Band_gap_at_the_GGA_level_(eV):    1.17480E+00
+# Band_gap_at_the_HSE06_level_(eV):  2.39170E+00
+# Atomization_energy_(eV/atom):     -6.14422E+00
+# Volume_of_the_unit_cell_(A^3):     1.36919E+02
+# Simulation_tool:                   VASP-5.X
+# Pseudopotential:                   PAW
+# Simulation_conditions:             ENCUT=400eV,k-spacing_relax=0.25/Angstrom,k-spacing_bandgap=0.20/Angstrom
+# File_description:                  Structural information in CIF format
+# Note:                              N/A 
+# Created_by:                        Huan Tran (huan.tran@uconn.edu)
