@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Directory to search files in
-SEARCH_DIR="/home/localt/Ltcode/polymer_project/data"
+SEARCH_DIR="$(pwd)/data"
 
 # Output file to store results
-OUTPUT_FILE="/home/localt/Ltcode/polymer_project/data/Extracted_head.txt"
+OUTPUT_FILE="$(pwd)/data/Extracted_head.txt"
 
 # Check if the output file already exists; if so, remove it to start fresh
 if [ -f "$OUTPUT_FILE" ]; then

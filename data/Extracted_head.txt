@@ -1,3 +1,10 @@
+File: /home/localt/Ltcode/polymer_project/data/Kunneth2021.csv
+,smiles,property,value
+0,[*]CC([*])C,Eat,-5.14
+1,[*]CC([*])F,Eat,-5.18
+2,[*]CC([*])(F)F,Eat,-5.21
+3,[*]C(F)C([*])(F)F,Eat,-5.11
+
 File: /home/localt/Ltcode/polymer_project/data/Nistane2022.csv
 ﻿Polymer,Polymer SMILES,Solvent,Solvent SMILES,chi,temperature,Reference Source
 polybutadiene,[*]C=CCC[*],methyl acetate,CC(=O)OC,1.03,368,"Brandrup, J., Immergut, E. H. and Grulke, E. A. (2004),Polymer handbook, 4th edition. 4th edn. New York: Wiley."
