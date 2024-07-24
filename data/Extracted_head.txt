@@ -1,0 +1,21 @@
+File: /home/localt/Ltcode/polymer_project/data/Nistane2022.csv
+﻿Polymer,Polymer SMILES,Solvent,Solvent SMILES,chi,temperature,Reference Source
+polybutadiene,[*]C=CCC[*],methyl acetate,CC(=O)OC,1.03,368,"Brandrup, J., Immergut, E. H. and Grulke, E. A. (2004),Polymer handbook, 4th edition. 4th edn. New York: Wiley."
+polybutadiene,[*]C=CCC[*],tetrahydrofuran,C1CCOC1,0.32,368,"Brandrup, J., Immergut, E. H. and Grulke, E. A. (2004),Polymer handbook, 4th edition. 4th edn. New York: Wiley."
+polybutadiene,[*]C=CCC[*],2-butanone,CCC(=O)C,1.08,368,"Brandrup, J., Immergut, E. H. and Grulke, E. A. (2004),Polymer handbook, 4th edition. 4th edn. New York: Wiley."
+polybutadiene,[*]C=CCC[*],acetonitrile,CC#N,2.61,368,"Brandrup, J., Immergut, E. H. and Grulke, E. A. (2004),Polymer handbook, 4th edition. 4th edn. New York: Wiley."
+
+File: /home/localt/Ltcode/polymer_project/data/PI1M.csv
+SMILES
+*CCC[Fe]CCCC(=O)OCCCCOCCCNCC(*)=O
+*CCCC1C=CNC2=CC=C2C(*)CCC1
+*CCC*
+*C(=O)CNC(*)C(=O)OCCCCCNC
+
+File: /home/localt/Ltcode/polymer_project/data/PI1M_v2.csv
+SMILES,SA Score
+*CCC[Fe]CCCC(=O)OCCCCOCCCNCC(*)=O,4.174851129781874
+*CCCC1C=CNC2=CC=C2C(*)CCC1,5.939779616123717
+*CCC*,6.887881636726233
+*C(=O)CNC(*)C(=O)OCCCCCNC,4.227674000586002
+

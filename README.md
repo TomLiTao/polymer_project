@@ -2,7 +2,7 @@
 
  In this project, we aim to leverage the power of machine learning algorithms to assist in the process of selecting the most suitable solvents for polymer synthesis. By analyzing various properties and characteristics of both polymers and solvents, our goal is to develop a predictive model that can recommend the optimal solvent for a given polymer. Through this project, we hope to streamline the solvent selection process, saving time and resources in polymer research and development. 
 
-# Data
+## Data
 
 The Data directory contains the set of data obtained from various sources used for training the machine learning model.
 
@@ -12,5 +12,9 @@ The **PI1M** files provides a comprehensive benchmark database for polymer infor
 χ with rising temperature. The dataset includes 58 polymers, such as polystyrene, polybutadiene, and polyethylene, and 140 solvents across various classes.
 
 **Huan2016** directory contains a dataset of 1,073 polymers related to the study **"A polymer dataset for accelerated property prediction and design"**.Related materials is developed and made available at http://khazana.uconn.edu/. This dataset, prepared using first-principles DFT calculations, includes optimized structures, atomization energies, band gaps, and dielectric constants, aimed at designing high dielectric constant polymers. The dataset comprises common polymers, new organic and organometallic polymers generated through computation-driven strategies, and related materials from the Crystallography Open Database. The workflow involved collecting structures, optimizing them via DFT, calculating properties, validating with experimental data, and performing post-filtering to ensure distinct data points. The dataset, accessible via Dryad and NoMaD repositories, is presented in CIF format with detailed calculated properties, serving as a valuable resource for data mining and the development of advanced materials for energy storage and other applications.
+
+## util
+
+The util directory contains a collection of scripts that are used for small-scale utilities. These scripts are designed to perform specific tasks or automate repetitive actions, making them useful for various purposes in the project. 
 
 
