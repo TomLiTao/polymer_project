@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_ZnH4(CO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31686360
+_cell_length_b   4.09539040
+_cell_length_c   7.67547034
+_cell_angle_alpha   85.12305266
+_cell_angle_beta   86.13333937
+_cell_angle_gamma   89.78181708
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnH4(CO)4
+_chemical_formula_sum   'Zn1 H4 C4 O4'
+_cell_volume   103.648305454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.410383  0.704059  0.519505  1
+  C  C2  1  0.515377  0.812178  0.694219  1
+  C  C3  1  0.566503  0.547246  0.841815  1
+  C  C4  1  0.428633  0.637128  0.023422  1
+  H  H5  1  0.766444  0.982187  0.672856  1
+  H  H6  1  0.259032  0.962768  0.732462  1
+  H  H7  1  0.868792  0.449250  0.842397  1
+  H  H8  1  0.380523  0.336346  0.824187  1
+  O  O9  1  0.525223  0.906121  0.382393  1
+  O  O10  1  0.178236  0.464967  0.510055  1
+  O  O11  1  0.526178  0.429681  0.152900  1
+  O  O12  1  0.189563  0.874585  0.042408  1
+  Zn  Zn13  1  0.035589  0.156597  0.269272  1
+ 
+# Number_of_atoms:                    13
+# Number_of_atom_types:                4
+# Atom_types:                         C  H  O Zn
+# Atom_numbers:                        4     4     4     1
+# Material_class:                    MC_pol
+# Geometry_class:                    GC_cry
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Zn-based_polymer                                                                
+# Structure_prediction_method_used:  minima-hopping                                                                  
+# Dielectric_constant_electronic:    3.27159E+00
+# Dielectric_constant_ionic:         5.82475E+00
+# Dielectric_constant_total:         9.09634E+00
+# Band_gap_at_the_GGA_level_eV:      3.91190E+00
+# Band_gap_at_the_HSE06_level_eV:    5.84960E+00
+# Atomization_energy_(eV/atom):     -5.70572E+00
+# Volume_of_the_unit_cell_(A^3):     1.03648E+02
+# Simulation_tool:                   VASP-5.X
+# Pseudopotential:                   PAW
+# Simulation_conditions:             ENCUT=400eV,k-spacing_relax=0.25/Angstrom,k-spacing_bandgap=0.20/Angstrom
+# File_description:                  Structural information in CIF format
+# Note:                              N/A 
+# Created_by:                        Huan Tran (huan.tran@uconn.edu)
